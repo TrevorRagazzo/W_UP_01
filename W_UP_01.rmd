@@ -46,6 +46,8 @@ boxplot(pushups~position,data=mydata)
 ```
  
  
+ The skilled positioned players had a higher average os pushups than the line players. Therefore I would assume that skilled position players coud do more pushups than line position players. 
+ 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
